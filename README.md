@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects Experiences:</h2>
 
-- <b>School Projects(C, Console App)</b>
+- <b>School Projects</b>
   - [UX/Linux](https://github.com/harriskwong1208/LinuxShell)
   - [Producer/Consumer](https://github.com/harriskwong1208/ProducerConsumer)
 
