@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harris Kwong. I am a computer science student at Temple University. This profile consists of school and side projects and is currently still a work in progress.
+<h1>Hi, I'm Harris Kwong. I am a computer science student at Temple University. This profile consists of school and side projects.
 
 <h2>👨‍💻 Projects Experiences:</h2>
 
