@@ -3,8 +3,10 @@
 <h2>👨‍💻 Projects Experiences:</h2>
 
 - <b>School Projects</b>
+  - [Dungeon Hunting RPG (In Progress)](https://github.com/cis3296s23/project-01-dungeon-hunting)
   - [UX/Linux](https://github.com/harriskwong1208/LinuxShell)
   - [Producer/Consumer](https://github.com/harriskwong1208/ProducerConsumer)
+
 
 - <b>Python</b>
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
