@@ -8,7 +8,7 @@
   - [Producer/Consumer](https://github.com/harriskwong1208/ProducerConsumer)
 
 
-- <b>Python</b>
+- <b>Side Projects</b>
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
 
 
@@ -19,7 +19,7 @@
 <h2> 🤳 LinkedIn:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarrisKwong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]:https://www.linkedin.com/in/harris-kwong/
