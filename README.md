@@ -9,7 +9,9 @@
 
 
 - <b>Side Projects</b>
+  - [Youtube](https://github.com/harriskwong1208/youtube)
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
+  
 
 
 
