@@ -9,7 +9,7 @@
 
 
 - <b>Side Projects</b>
-  - [TreasureGame (In progress)](https://github.com/harriskwong1208/TreasureGame)
+  - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [Youtube (In progress)](https://github.com/harriskwong1208/youtube)
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
 
