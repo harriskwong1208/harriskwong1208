@@ -10,7 +10,7 @@
 
 - <b>Side Projects</b>
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
-  - [Youtube (In progress)](https://github.com/harriskwong1208/youtube)
+  - [PremierLeageChat (In progress)](https://github.com/harriskwong1208/PremierLeagueChat)
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
 
   
