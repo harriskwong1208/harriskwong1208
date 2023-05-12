@@ -5,10 +5,7 @@
 - <b>School Projects</b>
   - [Dungeon Hunting RPG](https://github.com/cis3296s23/project-01-dungeon-hunting)
   - [Webview App](https://github.com/TempleCIS3515/assignment-10-harriskwong1208)
-    <p>The WebView app connects to the internet and allows users to access different websites. The features of this app
-    include adding multiple tabs and bookmarking sites. Users can also share websites to emails, text messages, and more.
-    An additional feature in landscape mode also includes a list of currently opened tabs and their page titles, users can click
-      a page title from the list and it will bring the user to the selected tab.</p>
+    <p>The WebView application facilitates online connectivity for users, enabling them to access various websites. Among its capabilities are the ability to add multiple tabs and bookmark sites, as well as share websites via email, text message, and more. Furthermore, when in landscape mode, users can access a list of presently opened tabs and their corresponding page titles. By selecting a page title from the list, the user is seamlessly redirected to the desired tab.</p>
   - [UX/Linux](https://github.com/harriskwong1208/LinuxShell)
   - [Producer/Consumer](https://github.com/harriskwong1208/ProducerConsumer)
 
