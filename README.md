@@ -13,6 +13,7 @@
 - <b>Side Projects</b>
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [PremierLeageChat (In progress)](https://github.com/harriskwong1208/PremierLeagueChat)
+  - [OnlineStore(In progress)](https://github.com/harriskwong1208/OnlineStore)
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
 
   
