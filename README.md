@@ -1,5 +1,5 @@
-<h2> I am Harris Kwong, a Computer Science student enrolled at Temple University. Within this profile, you will find a compilation of my
-academic pursuits and noteworthy side projects.
+<h2> I am Harris Kwong, a Computer Science student enrolled at Temple University. Within this profile, you will find a compilation of my noteworthy
+academic and side projects.
 
 <h2>👨‍💻 Projects Experiences:</h2>
 
