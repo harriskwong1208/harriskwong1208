@@ -14,6 +14,7 @@
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [PremierLeageChat (In progress)](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore(In progress)](https://github.com/harriskwong1208/OnlineStore)
+  -[SQL_Python](In progress)(https://github.com/harriskwong1208/SQL_Python)
   - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
 
   
