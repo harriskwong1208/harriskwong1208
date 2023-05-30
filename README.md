@@ -1,4 +1,5 @@
-<h1>Hi, I'm Harris Kwong. I am a computer science student at Temple University. This profile consists of school and side projects.
+<h2> I am Harris Kwong, a Computer Science student enrolled at Temple University. Within this profile, you will find a compilation of my
+academic pursuits and noteworthy side projects.
 
 <h2>👨‍💻 Projects Experiences:</h2>
 
@@ -15,7 +16,7 @@
   - [PremierLeageChat (In progress)](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore (In progress)](https://github.com/harriskwong1208/OnlineStore)
   - [SQL_Python (In progress)](https://github.com/harriskwong1208/SQL_Python)
-  - [MedicalDiagnosisBot](https://github.com/harriskwong1208/MedicalDiagnosisBot)
+ 
 
   
 
