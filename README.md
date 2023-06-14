@@ -14,7 +14,7 @@ academic and side projects.
 - <b>Side Projects</b>
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
-  - [WebAPI (In progress)](https://github.com/harriskwong1208/WebAPI)
+  - [WebAPI](https://github.com/harriskwong1208/WebAPI)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
 
   
