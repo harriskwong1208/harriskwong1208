@@ -1,7 +1,7 @@
 <h2>Computer Science student enrolled at Temple University. Within this profile, you will find a compilation of my noteworthy
 academic and side projects.
 
-<h2>👨‍💻 Projects Experiences:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
 
 - <b>School Projects</b>
   - [Dungeon Hunting RPG](https://github.com/cis3296s23/project-01-dungeon-hunting)
@@ -11,7 +11,7 @@ academic and side projects.
   
 
 
-- <b>Side Projects</b>
+- <b>Individual Projects</b>
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
   - [CampusConnect](https://github.com/harriskwong1208/CampusConnect)
