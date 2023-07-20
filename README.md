@@ -15,7 +15,6 @@ academic and side projects.
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
   - [CampusConnect](https://github.com/harriskwong1208/CampusConnect)
-  - [CRUDAPI](https://github.com/harriskwong1208/CRUDAPI)
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
 
