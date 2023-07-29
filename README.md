@@ -7,10 +7,10 @@ academic and side projects.
 - <b>Individual Projects</b>
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
-  - [CalorieHub](https://github.com/harriskwong1208/caloriehub)
-  - [CampusConnect](https://github.com/harriskwong1208/CampusConnect)
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
+  - [CalorieHub](https://github.com/harriskwong1208/caloriehub)
+  - [CampusConnect](https://github.com/harriskwong1208/CampusConnect)
 
   
 - <b>School Projects</b>
