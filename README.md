@@ -9,8 +9,8 @@ academic and side projects.
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
-  - [CalorieHub](https://github.com/harriskwong1208/caloriehub)
-  - [CampusConnect](https://github.com/harriskwong1208/CampusConnect)
+  - [CalorieHub (In progress)](https://github.com/harriskwong1208/caloriehub)
+  - [CampusConnect (In progress)](https://github.com/harriskwong1208/CampusConnect)
 
   
 - <b>School Projects</b>
