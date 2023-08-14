@@ -10,7 +10,7 @@ academic and side projects.
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [ClimaCast (In progress)](https://github.com/harriskwong1208/climacast)
-  - [CalorieHub (In progress)](https://github.com/harriskwong1208/caloriehub)
+  - [EvenFlow (In progress)](https://github.com/harriskwong1208/eventflow)
 
 
   
