@@ -10,6 +10,7 @@
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [ClimaCast](https://github.com/harriskwong1208/climacast)
   - [EventFlow (In progress)](https://github.com/harriskwong1208/eventflow)
+  - [NexusLink (In progress)](https://github.com/harriskwong1208/NexusLink)
 
 
   
