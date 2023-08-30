@@ -8,8 +8,8 @@
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
-  - [ClimaCast(In progress)](https://github.com/harriskwong1208/climacast)
-  - [EventFlow (In progress)](https://github.com/harriskwong1208/eventflow)
+  - [ClimaCast](https://github.com/harriskwong1208/climacast)
+  - [EventFlow](https://github.com/harriskwong1208/eventflow)
 
 
   
