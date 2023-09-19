@@ -9,7 +9,7 @@
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [ClimaCast](https://github.com/harriskwong1208/climacast)
-  - [EventFlow(In progress)](https://github.com/harriskwong1208/eventflow)
+  - [EventFlow](https://github.com/harriskwong1208/eventflow)
 
 
   
