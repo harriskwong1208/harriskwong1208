@@ -1,4 +1,4 @@
-<h2>Senior Computer science student seeking for an entry-level software engineer position. Excited about gaining new experiences that will enhance my skills and enable me to create new innovative projects. Proficient in an array of technical skills such as Java, Python, C, SQL, C#, Django, ASP.NET Core, HTML/CSS, Javascript, and React. Within this profile, you will find a compilation of my academic and personal projects.
+<h2>Senior Computer science student seeking for an entry-level software engineer position. Excited about gaining new experiences that will enhance my skills and enable me to create new innovative projects. Proficient in an array of technical skills such as Java, Python, C, SQL, C#, Django, ASP.NET Core, HTML/CSS, Javascript, and React. Within this profile, you will find a compilation of my academic and personal projects.</h2>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
