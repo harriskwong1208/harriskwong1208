@@ -5,16 +5,16 @@
 
 - <b>Personal Projects</b>
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
+  - [EventFlow](https://github.com/harriskwong1208/eventflow)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
   - [PremierApi](https://github.com/harriskwong1208/SoccerApi)
   - [TreasureGame](https://github.com/harriskwong1208/TreasureGame)
   - [ClimaCast](https://github.com/harriskwong1208/climacast)
-  - [EventFlow](https://github.com/harriskwong1208/eventflow)
 
 
   
 - <b>Academic Projects</b>
-  - [StudySync (In Progress)](https://github.com/Capstone-Projects-2023-Fall/project-studysync)
+  - [StudySync (Capstone)](https://github.com/Capstone-Projects-2023-Fall/project-studysync)
   - [Dungeon Hunting RPG](https://github.com/cis3296s23/project-01-dungeon-hunting)
   - [Webview App](https://github.com/TempleCIS3515/assignment-10-harriskwong1208)
     <p>The WebView application, written in Kotlin, facilitates online connectivity for users, enabling them to access various websites. Among its capabilities are the ability to add multiple tabs and bookmark sites, as well as share websites via email, text message, and more. Furthermore, when in landscape mode, users can access a list of presently opened tabs and their corresponding page titles. By selecting a page title from the list, the user is redirected to the desired tab.</p>
