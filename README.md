@@ -1,4 +1,4 @@
-<h3>Senior Computer science student seeking for an entry-level/intern software engineer position. Excited about gaining new experiences that will enhance my skills and enable me to create new innovative projects. Proficient in an array of technical skills such as Java, Python, C, SQL, C#, Django, ASP.NET, HTML/CSS, Javascript, React, Node.js, and Express.js. Within this profile, you will find a compilation of my academic and personal projects.</h3>
+<h3>Software engineering intern at SereneX and a recent graduate in computer science, I am currently seeking an entry-level software engineer position. I am enthusiastic and committed to learning new skills and expanding my knowledge in the software engineering field. Some of my skills include JavaScript, React.js, Firebase, HTML, CSS, Java, C#, ASP.NET, Express.js, Python, and SQL. In this profile, you will find a compilation of my academic and personal projects.</h3>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
