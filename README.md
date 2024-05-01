@@ -22,6 +22,9 @@
   - [UX/Linux](https://github.com/harriskwong1208/LinuxShell)
   
 
+- <b>Analyst Projects</b>
+  - [CycleStats](https://github.com/harriskwong1208/CycleStats)
+
 
 
 
