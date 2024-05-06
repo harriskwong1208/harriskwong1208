@@ -24,6 +24,8 @@
 
 - <b>Analyst Projects</b>
   - [CycleStats](https://github.com/harriskwong1208/CycleStats)
+  - [DataInsight](https://github.com/harriskwong1208/DataInsight)
+
 
 
 
