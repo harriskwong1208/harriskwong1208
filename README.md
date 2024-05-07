@@ -5,6 +5,7 @@
 
 - <b>Personal Projects</b>
   - [OtakuHub](https://github.com/harriskwong1208/Otaku-Hub)
+  - [EventEase](https://github.com/harriskwong1208/eventease) 
   - [PremierLeageChat](https://github.com/harriskwong1208/PremierLeagueChat)
   - [EventFlow](https://github.com/harriskwong1208/eventflow)
   - [OnlineStore](https://github.com/harriskwong1208/OnlineStore)
