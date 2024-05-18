@@ -25,8 +25,8 @@ Hi, I'm Harris Kwong, a recent graduate from Temple University with a BS in Comp
 
 
 
-
-
+<h2> Portfolio:</h2>
+-  https://harriskwong1208.github.io/Portfolio/
 
 <h2> 🤳 LinkedIn:</h2>
 
