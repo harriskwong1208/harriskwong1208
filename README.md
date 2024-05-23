@@ -18,6 +18,7 @@ Hi, I'm Harris Kwong, a recent graduate from Temple University with a BS in Comp
   - [Dungeon Hunting RPG](https://github.com/cis3296s23/project-01-dungeon-hunting)  
 
 - <b>Analyst Projects</b>
+  - [EspressoEnterprise](https://github.com/harriskwong1208/EspressoEnterprise)
   - [CycleStats](https://github.com/harriskwong1208/CycleStats)
   - [DataInsight](https://github.com/harriskwong1208/DataInsight)
 
