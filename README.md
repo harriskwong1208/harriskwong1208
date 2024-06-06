@@ -19,6 +19,7 @@ Hi, I'm Harris Kwong, a recent graduate from Temple University with a BS in Comp
 
 - <b>Analyst Projects</b>
   - [EspressoEnterprise](https://github.com/harriskwong1208/EspressoEnterprise)
+  - [AmazonHarvest](https://github.com/harriskwong1208/AmazonHarvest)
   - [CycleStats](https://github.com/harriskwong1208/CycleStats)
   - [DataInsight](https://github.com/harriskwong1208/DataInsight)
 
