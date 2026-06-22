@@ -1,5 +1,5 @@
 <h3>
-Hi, I'm Harris Kwong, a recent graduate from Temple University with a BS in Computer Science. My most recent role was as a Software Engineering Intern at Serenex LLC. Currently, I am actively seeking an entry-level position as a software engineer or data analyst. I am enthusiastic about learning new skills and expanding my knowledge in these fields. I am always seeking to learn something new and enjoy building personal projects to showcase my dedication and drive to refine my skills. In this profile, you will find a compilation of my academic and personal projects.
+Hi, I'm Harris Kwong, a recent graduate from Temple University with a BS in Computer Science. Myy Current role is Trade Settlement Operations Ananlyst at SEI Investments. Currently, I am actively seeking for data analyst role that ultizies python/Pandas/SQL skills further my technical skills and explore more into the analysis career field. I am always seeking to learn something new and enjoy building personal projects to showcase my dedication and drive to refine my skills. In this profile, you will find a compilation of my academic and personal projects.
 </h3>
 
 <h2>👨‍💻 Technical Projects:</h2>
